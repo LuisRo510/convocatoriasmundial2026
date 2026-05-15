@@ -2,6 +2,7 @@ import streamlit as st
 import plotly.express as px
 import pandas as pd
 from datetime import date
+import estadisticas  # type: ignore
 
 st.set_page_config(page_title="Convocatorias Mundial 2026", layout="wide")
 st.markdown("""
@@ -96,10 +97,32 @@ def _build_mapa(mapa_df):
     return fig
 
 
+# ── Valor de mercado ──────────────────────────────────────────────────────────
+
+def _parsear_valor(val_str):
+    """Convierte '3,00 mill. €' o '400 mil €' a float en millones."""
+    if pd.isna(val_str) or not str(val_str).strip():
+        return None
+    s = str(val_str).strip()
+    try:
+        if 'mill.' in s:
+            return float(s.split('mill.')[0].strip().replace(',', '.'))
+        if 'mil' in s:
+            return float(s.split('mil')[0].strip().replace(',', '.')) / 1000
+    except (ValueError, IndexError):
+        return None
+    return None
+
+
+def _fmt_millones(total):
+    num = f"{total:,.1f}".replace(',', 'X').replace('.', ',').replace('X', '.')
+    return f"{num} mill."
+
+
 # ── Estadísticas de plantilla ─────────────────────────────────────────────────
 
 def _stats_plantilla(df_con_nombres):
-    """Devuelve (edad_media, texto_club_top) sobre los jugadores con nombre."""
+    """Devuelve (edad_media, club_top, valor_total_str)."""
     edad_media = None
     if 'edad' in df_con_nombres.columns:
         edades = df_con_nombres['edad'].dropna()
@@ -118,7 +141,13 @@ def _stats_plantilla(df_con_nombres):
                 top = counts[counts == max_count].index.tolist()
                 club_top = " / ".join(top) + f" ({max_count})"
 
-    return edad_media, club_top
+    valor_total = None
+    if 'valor' in df_con_nombres.columns:
+        valores = df_con_nombres['valor'].apply(_parsear_valor).dropna()
+        if not valores.empty:
+            valor_total = _fmt_millones(valores.sum())
+
+    return edad_media, club_top, valor_total
 
 
 # ── Aviso de dorsales ─────────────────────────────────────────────────────────
@@ -153,9 +182,9 @@ def _mostrar_plantilla(df_sel, nombre):
 
     if tiene_nombres:
         df_nombres = df_sel[df_sel['nombre_completo'].notna()]
-        edad_media, club_top = _stats_plantilla(df_nombres)
+        edad_media, club_top, valor_total = _stats_plantilla(df_nombres)
     else:
-        edad_media, club_top = None, None
+        edad_media, club_top, valor_total = None, None, None
 
     # Renderizar barra de info en una sola línea HTML
     partes = []
@@ -173,6 +202,11 @@ def _mostrar_plantilla(df_sel, nombre):
         partes.append(
             f"<span style='font-size:13px;color:#6b7280;'>Club predominante: "
             f"<b style='color:#1a1a2e;'>{club_top}</b></span>"
+        )
+    if valor_total:
+        partes.append(
+            f"<span style='font-size:13px;color:#6b7280;'>Valor de plantilla: "
+            f"<b style='color:#1a1a2e;'>{valor_total}</b></span>"
         )
     if partes:
         st.markdown(
@@ -209,6 +243,8 @@ def _mostrar_plantilla(df_sel, nombre):
                     detalles.append(f"{int(j['edad'])} años")
                 if 'club' in j and pd.notna(j.get('club')) and str(j['club']).strip():
                     detalles.append(str(j['club']).strip())
+                if 'valor' in j and pd.notna(j.get('valor')) and str(j['valor']).strip():
+                    detalles.append(str(j['valor']).strip())
                 detalle_str = ' · '.join(detalles)
 
                 st.markdown(
@@ -222,10 +258,7 @@ def _mostrar_plantilla(df_sel, nombre):
 
 # ── Entrada pública ───────────────────────────────────────────────────────────
 
-def mostrar():
-    st.title("Convocatorias para la Copa Mundial de la FIFA 2026", anchor=False)
-
-    df      = _cargar()
+def _tab_convocatorias(df):
     mapa_df = _build_mapa_data(df)
 
     # Cuando el mapa registra un clic nuevo, resetear el dropdown para que el
@@ -259,13 +292,11 @@ def mostrar():
             unsafe_allow_html=True,
         )
 
-        # Selector de grupo
         grupos_raw   = sorted(df['grupo'].dropna().unique())
         grupo_opts   = ['— Todos —'] + [f"Grupo {g}" for g in grupos_raw]
         grupo_sel    = st.selectbox("Grupo", grupo_opts, key='grupo_sel',
                                     label_visibility='collapsed')
 
-        # Filtrar selecciones por grupo
         if grupo_sel == '— Todos —':
             equipos_disp = sorted(df['seleccion'].unique())
         else:
@@ -279,14 +310,12 @@ def mostrar():
 
     st.divider()
 
-    # ── Prioridad: dropdown > mapa ────────────────────────────────────────────
     if equipo_sel != '— Selecciona —':
         df_vista = df[df['seleccion'] == equipo_sel]
         _trigger_aviso(equipo_sel)
         _mostrar_plantilla(df_vista, equipo_sel)
         return
 
-    # ── Clic en el mapa ───────────────────────────────────────────────────────
     if not (event and event.get('selection', {}).get('points')):
         st.info("Haz clic en un país del mapa o usa el selector de la derecha.")
         return
@@ -294,7 +323,6 @@ def mostrar():
     iso3        = event['selection']['points'][0].get('location', '')
     nombre_mapa = event['selection']['points'][0].get('hovertext', iso3)
 
-    # Caso especial: Reino Unido (solo desde el mapa; en dropdown ya aparecen separadas)
     if iso3 == 'GBR':
         sels_gbr = sorted(df[df['iso3'] == 'GBR']['seleccion'].unique())
         elegida  = st.radio(
@@ -315,6 +343,27 @@ def mostrar():
     nombre_sel = df_sel['seleccion'].iloc[0]
     _trigger_aviso(nombre_sel)
     _mostrar_plantilla(df_sel, nombre_sel)
+
+
+def mostrar():
+    st.title("Convocatorias para la Copa Mundial de la FIFA 2026", anchor=False)
+
+    df = _cargar()
+
+    tab_conv, tab_stats = st.tabs(["🗺️  Convocatorias", "📊  Estadísticas"])
+
+    with tab_conv:
+        _tab_convocatorias(df)
+
+    with tab_stats:
+        estadisticas.mostrar(df)
+
+    st.markdown(
+        "<div style='position:fixed;bottom:12px;right:50px;"
+        "font-size:11px;color:#9ca3af;pointer-events:none;'>"
+        "Fuente de los datos: Transfermarkt.com</div>",
+        unsafe_allow_html=True,
+    )
 
 
 mostrar()
