@@ -575,7 +575,7 @@ Francia;Mike Maignan;;1;Portero;AC Milan;03/07/1995;I;FR;FRA
 Francia;Robin Risser;;2;Portero;RC Lens;02/12/2004;I;FR;FRA
 Francia;Brice Samba;;3;Portero;Stade Rennais FC;25/04/1994;I;FR;FRA
 Francia;William Saliba;;4;Defensa;Arsenal FC;24/03/2001;I;FR;FRA
-Francia;Dayot Upamecano;;5;Defensa;Bayern Múnich;27/10/1998;I;FR;FRA
+Francia;Dayot Upamecano;;5;Defensa;Bayern München;27/10/1998;I;FR;FRA
 Francia;Ibrahima Konaté;;6;Defensa;Liverpool FC;25/05/1999;I;FR;FRA
 Francia;Maxence Lacroix;;7;Defensa;Crystal Palace;06/04/2000;I;FR;FRA
 Francia;Theo Hernández;;8;Defensa;Al-Hilal SFC;06/10/1997;I;FR;FRA
@@ -590,7 +590,7 @@ Francia;Manu Koné;;16;Centrocampista;AS Roma;17/05/2001;I;FR;FRA
 Francia;Adrien Rabiot;;17;Centrocampista;AC Milan;03/04/1995;I;FR;FRA
 Francia;Rayan Cherki;;18;Delantero;Manchester City;17/08/2003;I;FR;FRA
 Francia;Bradley Barcola;;19;Delantero;Paris Saint-Germain;02/09/2002;I;FR;FRA
-Francia;Michael Olise;;20;Delantero;Bayern Múnich;12/12/2001;I;FR;FRA
+Francia;Michael Olise;;20;Delantero;Bayern München;12/12/2001;I;FR;FRA
 Francia;Désiré Doué;;21;Delantero;Paris Saint-Germain;03/06/2005;I;FR;FRA
 Francia;Maghnes Akliouche;;22;Delantero;AS Monaco;25/02/2002;I;FR;FRA
 Francia;Kylian Mbappé  ;;23;Delantero;Real Madrid;20/12/1998;I;FR;FRA
@@ -727,32 +727,32 @@ Inglaterra;;;23;;;;;GB;GBR
 Inglaterra;;;24;;;;;GB;GBR
 Inglaterra;;;25;;;;;GB;GBR
 Inglaterra;;;26;;;;;GB;GBR
-Japón;;;1;;;;;JP;JPN
-Japón;;;2;;;;;JP;JPN
-Japón;;;3;;;;;JP;JPN
-Japón;;;4;;;;;JP;JPN
-Japón;;;5;;;;;JP;JPN
-Japón;;;6;;;;;JP;JPN
-Japón;;;7;;;;;JP;JPN
-Japón;;;8;;;;;JP;JPN
-Japón;;;9;;;;;JP;JPN
-Japón;;;10;;;;;JP;JPN
-Japón;;;11;;;;;JP;JPN
-Japón;;;12;;;;;JP;JPN
-Japón;;;13;;;;;JP;JPN
-Japón;;;14;;;;;JP;JPN
-Japón;;;15;;;;;JP;JPN
-Japón;;;16;;;;;JP;JPN
-Japón;;;17;;;;;JP;JPN
-Japón;;;18;;;;;JP;JPN
-Japón;;;19;;;;;JP;JPN
-Japón;;;20;;;;;JP;JPN
-Japón;;;21;;;;;JP;JPN
-Japón;;;22;;;;;JP;JPN
-Japón;;;23;;;;;JP;JPN
-Japón;;;24;;;;;JP;JPN
-Japón;;;25;;;;;JP;JPN
-Japón;;;26;;;;;JP;JPN
+Japón;Zion Suzuki;;1;Portero;Parma;21/08/2002;F;JP;JPN
+Japón;Keisuke Osako;;2;Portero;Sanfrecce Hiroshima;28/07/1999;F;JP;JPN
+Japón;Tomoki Hayakawa;;3;Portero;Kashima Antlers;03/03/1999;F;JP;JPN
+Japón;Hiroki Ito;;4;Defensa;Bayern München;12/05/1999;F;JP;JPN
+Japón;Ko Itakura;;5;Defensa;Ajax Amsterdam;27/01/1997;F;JP;JPN
+Japón;Tsuyoshi Watanabe;;6;Defensa;Feyenoord;05/02/1997;F;JP;JPN
+Japón;Junnosuke Suzuki;;7;Defensa;FC Copenhague;12/07/2003;F;JP;JPN
+Japón;Shogo Taniguchi;;8;Defensa;Sint-Truidense VV;15/07/1991;F;JP;JPN
+Japón;Yuto Nagatomo;;9;Defensa;FC Tokyo;12/09/1986;F;JP;JPN
+Japón;Takehiro Tomiyasu;;10;Defensa;Ajax Amsterdam;05/11/1998;F;JP;JPN
+Japón;Yukinari Sugawara;;11;Defensa;SV Werder Bremen;28/06/2000;F;JP;JPN
+Japón;Kaishu Sano;;12;Centrocampista;1.FSV Mainz 05;30/12/2000;F;JP;JPN
+Japón;Wataru Endo ;;13;Centrocampista;Liverpool FC;09/02/1993;F;JP;JPN
+Japón;Ayumu Seko;;14;Centrocampista;Le Havre AC;07/06/2000;F;JP;JPN
+Japón;Ao Tanaka;;15;Centrocampista;Leeds United;10/09/1998;F;JP;JPN
+Japón;Daichi Kamada;;16;Centrocampista;Crystal Palace;05/08/1996;F;JP;JPN
+Japón;Daizen Maeda;;17;Delantero;Celtic FC;20/10/1997;F;JP;JPN
+Japón;Keito Nakamura;;18;Delantero;Stade Reims;28/07/2000;F;JP;JPN
+Japón;Takefusa Kubo;;19;Delantero;Real Sociedad;04/06/2001;F;JP;JPN
+Japón;Ritsu Doan;;20;Delantero;Eintracht Frankfurt;16/06/1998;F;JP;JPN
+Japón;Junya Ito;;21;Delantero;KRC Genk;09/03/1993;F;JP;JPN
+Japón;Yuito Suzuki ;;22;Delantero;SC Freiburg;25/10/2001;F;JP;JPN
+Japón;Ayase Ueda;;23;Delantero;Feyenoord;28/08/1998;F;JP;JPN
+Japón;Keisuke Goto;;24;Delantero;Sint-Truidense VV;03/06/2005;F;JP;JPN
+Japón;Kento Shiogai;;25;Delantero;VfL Wolfsburg;26/03/2005;F;JP;JPN
+Japón;Koki Ogawa;;26;Delantero;NEC Nijmegen;08/08/1997;F;JP;JPN
 Jordania;;;1;;;;;JO;JOR
 Jordania;;;2;;;;;JO;JOR
 Jordania;;;3;;;;;JO;JOR
