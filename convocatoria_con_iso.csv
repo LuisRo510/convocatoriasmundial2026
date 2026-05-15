@@ -207,32 +207,32 @@ Brasil;;;23;;;;;;BR;BRA
 Brasil;;;24;;;;;;BR;BRA
 Brasil;;;25;;;;;;BR;BRA
 Brasil;;;26;;;;;;BR;BRA
-Bélgica;;;1;;;;;;BE;BEL
-Bélgica;;;2;;;;;;BE;BEL
-Bélgica;;;3;;;;;;BE;BEL
-Bélgica;;;4;;;;;;BE;BEL
-Bélgica;;;5;;;;;;BE;BEL
-Bélgica;;;6;;;;;;BE;BEL
-Bélgica;;;7;;;;;;BE;BEL
-Bélgica;;;8;;;;;;BE;BEL
-Bélgica;;;9;;;;;;BE;BEL
-Bélgica;;;10;;;;;;BE;BEL
-Bélgica;;;11;;;;;;BE;BEL
-Bélgica;;;12;;;;;;BE;BEL
-Bélgica;;;13;;;;;;BE;BEL
-Bélgica;;;14;;;;;;BE;BEL
-Bélgica;;;15;;;;;;BE;BEL
-Bélgica;;;16;;;;;;BE;BEL
-Bélgica;;;17;;;;;;BE;BEL
-Bélgica;;;18;;;;;;BE;BEL
-Bélgica;;;19;;;;;;BE;BEL
-Bélgica;;;20;;;;;;BE;BEL
-Bélgica;;;21;;;;;;BE;BEL
-Bélgica;;;22;;;;;;BE;BEL
-Bélgica;;;23;;;;;;BE;BEL
-Bélgica;;;24;;;;;;BE;BEL
-Bélgica;;;25;;;;;;BE;BEL
-Bélgica;;;26;;;;;;BE;BEL
+Bélgica;Senne Lammens;;1;Portero;Manchester United;30,00 mill. €;07/07/2002;G;BE;BEL
+Bélgica;Mike Penders;;2;Portero;RC Strasbourg;22,00 mill. €;31/07/2005;G;BE;BEL
+Bélgica;Thibaut Courtois;;3;Portero;Real Madrid;18,00 mill. €;11/05/1992;G;BE;BEL
+Bélgica;Zeno Debast;;4;Defensa;Sporting Lisboa;30,00 mill. €;24/10/2003;G;BE;BEL
+Bélgica;Koni De Winter;;5;Defensa;AC Milan;23,00 mill. €;12/06/2002;G;BE;BEL
+Bélgica;Arthur Theate;;6;Defensa;Eintracht Frankfurt;20,00 mill. €;25/05/2000;G;BE;BEL
+Bélgica;Nathan Ngoy;;7;Defensa;LOSC Lille;20,00 mill. €;10/06/2003;G;BE;BEL
+Bélgica;Brandon Mechele;;8;Defensa;Club Brugge;3,00 mill. €;28/01/1993;G;BE;BEL
+Bélgica;Maxim De Cuyper;;9;Defensa;Brighton & Hove Albion;22,00 mill. €;22/12/2000;G;BE;BEL
+Bélgica;Joaquin Seys;;10;Defensa;Club Brugge;17,00 mill. €;28/03/2005;G;BE;BEL
+Bélgica;Timothy Castagne;;11;Defensa;Fulham FC;10,00 mill. €;05/12/1995;G;BE;BEL
+Bélgica;Thomas Meunier;;12;Defensa;LOSC Lille;1,80 mill. €;12/09/1991;G;BE;BEL
+Bélgica;Amadou Onana ;;13;Centrocampista;Aston Villa;45,00 mill. €;16/08/2001;G;BE;BEL
+Bélgica;Nicolas Raskin;;14;Centrocampista;Rangers FC;12,00 mill. €;23/02/2001;G;BE;BEL
+Bélgica;Axel Witsel;;15;Centrocampista;Girona FC;1,40 mill. €;12/01/1989;G;BE;BEL
+Bélgica;Youri Tielemans ;;16;Centrocampista;Aston Villa;35,00 mill. €;07/05/1997;G;BE;BEL
+Bélgica;Alexis Saelemaekers;;17;Centrocampista;AC Milan;25,00 mill. €;27/06/1999;G;BE;BEL
+Bélgica;Diego Moreira;;18;Centrocampista;RC Strasbourg;25,00 mill. €;06/08/2004;G;BE;BEL
+Bélgica;Charles De Ketelaere;;19;Centrocampista;Atalanta;35,00 mill. €;10/03/2001;G;BE;BEL
+Bélgica;Kevin De Bruyne ;;20;Centrocampista;SSC Napoli;10,00 mill. €;28/06/1991;G;BE;BEL
+Bélgica;Hans Vanaken;;21;Centrocampista;Club Brugge;6,00 mill. €;24/08/1992;G;BE;BEL
+Bélgica;Jérémy Doku;;22;Delantero;Manchester City;65,00 mill. €;27/05/2002;G;BE;BEL
+Bélgica;Leandro Trossard;;23;Delantero;Arsenal;20,00 mill. €;04/12/1994;G;BE;BEL
+Bélgica;Dodi Lukébakio;;24;Delantero;SL Benfica;20,00 mill. €;24/09/1997;G;BE;BEL
+Bélgica;Matias Fernandez-Pardo;;25;Delantero;LOSC Lille;30,00 mill. €;03/02/2005;G;BE;BEL
+Bélgica;Romelu Lukaku ;;26;Delantero;SSC Napoli;12,00 mill. €;13/05/1993;G;BE;BEL
 Cabo Verde;;;1;;;;;;CV;CPV
 Cabo Verde;;;2;;;;;;CV;CPV
 Cabo Verde;;;3;;;;;;CV;CPV
@@ -1135,7 +1135,7 @@ Suecia;Mattias Svanberg;;15;Centrocampista;VfL Wolfsburg;9,00 mill. €;05/01/19
 Suecia;Jesper Karlström;;16;Centrocampista;Udinese;4,00 mill. €;21/06/1995;F;SE;SWE
 Suecia;Viktor Gyökeres;;17;Delantero;Arsenal;65,00 mill. €;04/06/1998;F;SE;SWE
 Suecia;Yasin Ayari;;18;Centrocampista;Brighton & Hove Albion;30,00 mill. €;06/10/2003;F;SE;SWE
-Suecia;Gustaf Nilsson;;19;Delantero;Club Brujas ;2,00 mill. €;23/05/1997;F;SE;SWE
+Suecia;Gustaf Nilsson;;19;Delantero;Club Brugge ;2,00 mill. €;23/05/1997;F;SE;SWE
 Suecia;Hjalmar Ekdal;;20;Defensa;Burnley FC;6,00 mill. €;21/10/1998;F;SE;SWE
 Suecia;Besfort Zeneli;;21;Centrocampista;Union Saint-Gilloise;4,50 mill. €;21/11/2002;F;SE;SWE
 Suecia;Emil Holm;;22;Defensa;Juventus de Turín;13,00 mill. €;13/05/2000;F;SE;SWE
