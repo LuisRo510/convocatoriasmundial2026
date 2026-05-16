@@ -159,7 +159,7 @@ Bosnia y Herzegovina;Nikola Vasilj;;1;Portero;FC St.Pauli;4,50 mill. €;02/12/1
 Bosnia y Herzegovina;Nihad Mujakic;;2;Defensa;Gaziantep FK;1,20 mill. €;15/04/1998;B;BA;BIH
 Bosnia y Herzegovina;Nidal Celik;;3;Defensa;RC Lens;4,00 mill. €;17/07/2006;B;BA;BIH
 Bosnia y Herzegovina;Tarik Muharemović;;4;Defensa;US Sassuolo;20,00 mill. €;28/02/2003;B;BA;BIH
-Bosnia y Herzegovina;Sead Kolasinac;;5;Defensa;Atalanta;6,00 mill. €;20/06/1993;B;BA;BIH
+Bosnia y Herzegovina;Sead Kolasinac;;5;Defensa;Atalanta BC;6,00 mill. €;20/06/1993;B;BA;BIH
 Bosnia y Herzegovina;Benjamin Tahirović;;6;Centrocampista;Brondby IF;4,50 mill. €;03/03/2003;B;BA;BIH
 Bosnia y Herzegovina;Amar Dedić;;7;Defensa;SL Benfica;15,00 mill. €;18/08/2002;B;BA;BIH
 Bosnia y Herzegovina;Armin Gigovic;;8;Centrocampista;Young Boys;2,50 mill. €;06/04/2002;B;BA;BIH
@@ -225,7 +225,7 @@ Bélgica;Axel Witsel;;15;Centrocampista;Girona FC;1,40 mill. €;12/01/1989;G;BE
 Bélgica;Youri Tielemans ;;16;Centrocampista;Aston Villa;35,00 mill. €;07/05/1997;G;BE;BEL
 Bélgica;Alexis Saelemaekers;;17;Centrocampista;AC Milan;25,00 mill. €;27/06/1999;G;BE;BEL
 Bélgica;Diego Moreira;;18;Centrocampista;RC Strasbourg;25,00 mill. €;06/08/2004;G;BE;BEL
-Bélgica;Charles De Ketelaere;;19;Centrocampista;Atalanta;35,00 mill. €;10/03/2001;G;BE;BEL
+Bélgica;Charles De Ketelaere;;19;Centrocampista;Atalanta BC;35,00 mill. €;10/03/2001;G;BE;BEL
 Bélgica;Kevin De Bruyne ;;20;Centrocampista;SSC Napoli;10,00 mill. €;28/06/1991;G;BE;BEL
 Bélgica;Hans Vanaken;;21;Centrocampista;Club Brugge;6,00 mill. €;24/08/1992;G;BE;BEL
 Bélgica;Jérémy Doku;;22;Delantero;Manchester City;65,00 mill. €;27/05/2002;G;BE;BEL
@@ -337,58 +337,58 @@ Colombia;;;23;;;;;;CO;COL
 Colombia;;;24;;;;;;CO;COL
 Colombia;;;25;;;;;;CO;COL
 Colombia;;;26;;;;;;CO;COL
-Corea del Sur;;;1;;;;;;KR;KOR
-Corea del Sur;;;2;;;;;;KR;KOR
-Corea del Sur;;;3;;;;;;KR;KOR
-Corea del Sur;;;4;;;;;;KR;KOR
-Corea del Sur;;;5;;;;;;KR;KOR
-Corea del Sur;;;6;;;;;;KR;KOR
-Corea del Sur;;;7;;;;;;KR;KOR
-Corea del Sur;;;8;;;;;;KR;KOR
-Corea del Sur;;;9;;;;;;KR;KOR
-Corea del Sur;;;10;;;;;;KR;KOR
-Corea del Sur;;;11;;;;;;KR;KOR
-Corea del Sur;;;12;;;;;;KR;KOR
-Corea del Sur;;;13;;;;;;KR;KOR
-Corea del Sur;;;14;;;;;;KR;KOR
-Corea del Sur;;;15;;;;;;KR;KOR
-Corea del Sur;;;16;;;;;;KR;KOR
-Corea del Sur;;;17;;;;;;KR;KOR
-Corea del Sur;;;18;;;;;;KR;KOR
-Corea del Sur;;;19;;;;;;KR;KOR
-Corea del Sur;;;20;;;;;;KR;KOR
-Corea del Sur;;;21;;;;;;KR;KOR
-Corea del Sur;;;22;;;;;;KR;KOR
-Corea del Sur;;;23;;;;;;KR;KOR
-Corea del Sur;;;24;;;;;;KR;KOR
-Corea del Sur;;;25;;;;;;KR;KOR
-Corea del Sur;;;26;;;;;;KR;KOR
-Costa de Marfil;;;1;;;;;;CI;CIV
-Costa de Marfil;;;2;;;;;;CI;CIV
-Costa de Marfil;;;3;;;;;;CI;CIV
-Costa de Marfil;;;4;;;;;;CI;CIV
-Costa de Marfil;;;5;;;;;;CI;CIV
-Costa de Marfil;;;6;;;;;;CI;CIV
-Costa de Marfil;;;7;;;;;;CI;CIV
-Costa de Marfil;;;8;;;;;;CI;CIV
-Costa de Marfil;;;9;;;;;;CI;CIV
-Costa de Marfil;;;10;;;;;;CI;CIV
-Costa de Marfil;;;11;;;;;;CI;CIV
-Costa de Marfil;;;12;;;;;;CI;CIV
-Costa de Marfil;;;13;;;;;;CI;CIV
-Costa de Marfil;;;14;;;;;;CI;CIV
-Costa de Marfil;;;15;;;;;;CI;CIV
-Costa de Marfil;;;16;;;;;;CI;CIV
-Costa de Marfil;;;17;;;;;;CI;CIV
-Costa de Marfil;;;18;;;;;;CI;CIV
-Costa de Marfil;;;19;;;;;;CI;CIV
-Costa de Marfil;;;20;;;;;;CI;CIV
-Costa de Marfil;;;21;;;;;;CI;CIV
-Costa de Marfil;;;22;;;;;;CI;CIV
-Costa de Marfil;;;23;;;;;;CI;CIV
-Costa de Marfil;;;24;;;;;;CI;CIV
-Costa de Marfil;;;25;;;;;;CI;CIV
-Costa de Marfil;;;26;;;;;;CI;CIV
+Corea del Sur;Bum-keun Song;;12;Portero;Jeonbuk Hyundai Motors;;15/10/1997;A;KR;KOR
+Corea del Sur;Hyeon-woo Jo;;21;Portero;Ulsan HD FC;;25/09/1991;A;KR;KOR
+Corea del Sur;Seung-gyu Kim;;1;Portero;FC Tokyo;;30/09/1990;A;KR;KOR
+Corea del Sur;Min-jae Kim;;4;Defensa;Bayern Munich;;15/11/1996;A;KR;KOR
+Corea del Sur;Yu-min Cho;;-;Defensa;Sharjah FC;;17/11/1996;A;KR;KOR
+Corea del Sur;Han-beom Lee;;3;Defensa;FC Midtjylland;;17/06/2002;A;KR;KOR
+Corea del Sur;Ju-sung Kim;;14;Defensa;Sanfrecce Hiroshima;;12/12/2000;A;KR;KOR
+Corea del Sur;Tae-hyeon Kim;;26;Defensa;Kashima Antlers;;17/09/2000;A;KR;KOR
+Corea del Sur;Tae-seok Lee;;13;Defensa;Austria Vienna;;28/07/2002;A;KR;KOR
+Corea del Sur;Young-woo Seol;;22;Defensa;Red Star Belgrade;;05/12/1998;A;KR;KOR
+Corea del Sur;Moon-hwan Kim;;15;Defensa;Daejeon Hana Citizen;;01/08/1995;A;KR;KOR
+Corea del Sur;In-beom Hwang ;;-;Defensa;Feyenoord Rotterdam;;20/09/1996;A;KR;KOR
+Corea del Sur;Hyeok-kyu Kwon;;-;Centrocampista;Karlsruher SC;;13/03/2001;A;KR;KOR
+Corea del Sur;Jin-seob Park;;16;Centrocampista;Zhejiang FC;;23/10/1995;A;KR;KOR
+Corea del Sur;Seung-ho Paik;;8;Centrocampista;Birmingham City;;17/03/1997;A;KR;KOR
+Corea del Sur;Jin-gyu Kim;;24;Centrocampista;Jeonbuk Hyundai Motors;;24/02/1997;A;KR;KOR
+Corea del Sur;Kang-in Lee;;18;Centrocampista;Paris Saint-Germain;;19/02/2001;A;KR;KOR
+Corea del Sur;Hyun-seok Hong;;16;Centrocampista;KAA Gent;;16/06/1999;A;KR;KOR
+Corea del Sur;Jun-ho Bae;;17;Centrocampista;Stoke City;;21/08/2003;A;KR;KOR
+Corea del Sur;Jae-sung Lee;;10;Centrocampista;1.FSV Mainz 05;;10/08/1992;A;KR;KOR
+Corea del Sur;Heung-min Son ;;7;Delantero;Los Angeles FC;;08/07/1992;A;KR;KOR
+Corea del Sur;Ji-sung Eom;;20;Delantero;Swansea City;;09/05/2002;A;KR;KOR
+Corea del Sur;Hyun-jun Yang;;-;Delantero;Celtic FC;;25/05/2002;A;KR;KOR
+Corea del Sur;Hyeon-gyu Oh;;19;Delantero;Besiktas JK;;12/04/2001;A;KR;KOR
+Corea del Sur;Hee-chan Hwang;;11;Delantero;Wolverhampton Wanderers;;26/01/1996;A;KR;KOR
+Corea del Sur;Gue-sung Cho;;-;Delantero;FC Midtjylland;;25/01/1998;A;KR;KOR
+Costa de Marfil;Yahia Fofana;;1;Portero;Caykur Rizespor;5,00 mill. €;21/08/2000;E;CI;CIV
+Costa de Marfil;Alban Lafont;;2;Portero;Panathinaikos;3,00 mill. €;23/01/1999;E;CI;CIV
+Costa de Marfil;Mohamed Koné;;3;Portero;Royal Charleroi SC;800 mil €;07/03/2002;E;CI;CIV
+Costa de Marfil;Ousmane Diomande;;4;Defensa;Sporting CP;45,00 mill. €;04/12/2003;E;CI;CIV
+Costa de Marfil;Evan Ndicka;;5;Defensa;AS Roma;35,00 mill. €;20/08/1999;E;CI;CIV
+Costa de Marfil;Wilfried Singo;;6;Defensa;Galatasaray;25,00 mill. €;25/12/2000;E;CI;CIV
+Costa de Marfil;Odilon Kossounou;;7;Defensa;Atalanta BC;18,00 mill. €;04/01/2001;E;CI;CIV
+Costa de Marfil;Emmanuel Agbadou;;8;Defensa;Besiktas JK;18,00 mill. €;17/06/1997;E;CI;CIV
+Costa de Marfil;Clément Akpa;;9;Defensa;AJ Auxerre;9,00 mill. €;24/11/2001;E;CI;CIV
+Costa de Marfil;Ghislain Konan;;10;Defensa;Gil Vicente FC;3,00 mill. €;27/12/1995;E;CI;CIV
+Costa de Marfil;Guéla Doué;;11;Defensa;RC Strasbourg Alsace;18,00 mill. €;17/10/2002;E;CI;CIV
+Costa de Marfil;Ibrahim Sangaré;;12;Centrocampista;Nottingham Forest;22,00 mill. €;02/12/1997;E;CI;CIV
+Costa de Marfil;Jean Michaël Seri;;13;Centrocampista;NK Maribor;100 mil €;19/07/1991;E;CI;CIV
+Costa de Marfil;Christ Inao Oulaï;;14;Centrocampista;Trabzonspor;17,00 mill. €;06/04/2006;E;CI;CIV
+Costa de Marfil;Franck Kessié;;15;Centrocampista;Al-Ahli SFC;12,00 mill. €;19/12/1996;E;CI;CIV
+Costa de Marfil;Seko Fofana;;16;Centrocampista;FC Porto;8,00 mill. €;07/05/1995;E;CI;CIV
+Costa de Marfil;Yan Diomande;;17;Delantero;RB Leipzig;75,00 mill. €;14/11/2006;E;CI;CIV
+Costa de Marfil;Bazoumana Touré;;18;Delantero;TSG 1899 Hoffenheim;35,00 mill. €;02/03/2006;E;CI;CIV
+Costa de Marfil;Simon Adingra;;19;Delantero;AS Monaco;25,00 mill. €;01/01/2002;E;CI;CIV
+Costa de Marfil;Parfait Guiagon;;20;Delantero;Royal Charleroi SC;5,00 mill. €;22/02/2001;E;CI;CIV
+Costa de Marfil;Amad Diallo;;21;Delantero;Manchester United;50,00 mill. €;11/07/2002;E;CI;CIV
+Costa de Marfil;Evann Guessand ;;22;Delantero;Crystal Palace;28,00 mill. €;01/07/2001;E;CI;CIV
+Costa de Marfil;Nicolas Pépé;;23;Delantero;Villarreal CF;6,00 mill. €;29/05/1995;E;CI;CIV
+Costa de Marfil;Ange-Yoan Bonny;;24;Delantero;Inter Milan;35,00 mill. €;25/10/2003;E;CI;CIV
+Costa de Marfil;Elye Wahi;;25;Delantero;OGC Nice;12,00 mill. €;02/01/2003;E;CI;CIV
+Costa de Marfil;Oumar Diakité;;26;Delantero;Cercle Brugge ;5,00 mill. €;20/12/2003;E;CI;CIV
 Croacia;;;1;;;;;;HR;HRV
 Croacia;;;2;;;;;;HR;HRV
 Croacia;;;3;;;;;;HR;HRV
@@ -623,32 +623,32 @@ Ghana;;;23;;;;;;GH;GHA
 Ghana;;;24;;;;;;GH;GHA
 Ghana;;;25;;;;;;GH;GHA
 Ghana;;;26;;;;;;GH;GHA
-Haití;;;1;;;;;;HT;HTI
-Haití;;;2;;;;;;HT;HTI
-Haití;;;3;;;;;;HT;HTI
-Haití;;;4;;;;;;HT;HTI
-Haití;;;5;;;;;;HT;HTI
-Haití;;;6;;;;;;HT;HTI
-Haití;;;7;;;;;;HT;HTI
-Haití;;;8;;;;;;HT;HTI
-Haití;;;9;;;;;;HT;HTI
-Haití;;;10;;;;;;HT;HTI
-Haití;;;11;;;;;;HT;HTI
-Haití;;;12;;;;;;HT;HTI
-Haití;;;13;;;;;;HT;HTI
-Haití;;;14;;;;;;HT;HTI
-Haití;;;15;;;;;;HT;HTI
-Haití;;;16;;;;;;HT;HTI
-Haití;;;17;;;;;;HT;HTI
-Haití;;;18;;;;;;HT;HTI
-Haití;;;19;;;;;;HT;HTI
-Haití;;;20;;;;;;HT;HTI
-Haití;;;21;;;;;;HT;HTI
-Haití;;;22;;;;;;HT;HTI
-Haití;;;23;;;;;;HT;HTI
-Haití;;;24;;;;;;HT;HTI
-Haití;;;25;;;;;;HT;HTI
-Haití;;;26;;;;;;HT;HTI
+Haití;Alexandre Pierre;;1;Portero;FC Sochaux-Montbéliard;500 mil €;25/02/2001;C;HT;HTI
+Haití;Johny Placide  ;;2;Portero;SC Bastia;150 mil €;29/01/1988;C;HT;HTI
+Haití;Josué Duverger;;3;Portero;FC Cosmos Koblenz;-;27/04/2000;C;HT;HTI
+Haití;Hannes Delcroix;;4;Defensa;FC Lugano;2,00 mill. €;28/02/1999;C;HT;HTI
+Haití;Jean-Kévin Duverne;;5;Defensa;KAA Gent;2,00 mill. €;12/07/1997;C;HT;HTI
+Haití;Ricardo Adé;;6;Defensa;LDU Quito;300 mil €;21/05/1990;C;HT;HTI
+Haití;Keeto Thermoncy;;7;Defensa;BSC Young Boys U21;25 mil €;29/03/2006;C;HT;HTI
+Haití;Martin Expérience;;8;Defensa;AS Nancy-Lorraine;400 mil €;09/03/1999;C;HT;HTI
+Haití;Duke Lacroix;;9;Defensa;Colorado Springs Switchbacks FC;125 mil €  ;14/10/1993;C;HT;HTI
+Haití;Carlens Arcus;;10;Defensa;Angers SCO;1,80 mill. €;28/06/1996;C;HT;HTI
+Haití;Wilguens Paugain;;11;Defensa;Zulte Waregem;600 mil €;24/08/2001;C;HT;HTI
+Haití;Danley Jean Jacques;;12;Centrocampista;Philadelphia Union;3,00 mill. €;20/05/2000;C;HT;HTI
+Haití;Dominique Simon;;13;Centrocampista;FC Tatran Presov;225 mil €;29/07/2000;C;HT;HTI
+Haití;Leverton Pierre;;14;Centrocampista;FC Vizela;200 mil €;09/03/1998;C;HT;HTI
+Haití;Carl Sainté;;15;Centrocampista;El Paso Locomotive FC;125 mil €  ;09/08/2002;C;HT;HTI
+Haití;Woodensky Pierre;;16;Centrocampista;Violette Athletic Club;-;30/12/2004;C;HT;HTI
+Haití;Jean-Ricner Bellegarde;;17;Centrocampista;Wolverhampton Wanderers;16,00 mill. €;27/06/1998;C;HT;HTI
+Haití;Derrick Etienne Jr.;;18;Delantero;Toronto FC;800 mil €;25/11/1996;C;HT;HTI
+Haití;Ruben Providence;;19;Delantero;Almere City FC;300 mil €;07/07/2001;C;HT;HTI
+Haití;Josué Casimir;;20;Delantero;AJ Auxerre;3,50 mill. €;24/09/2001;C;HT;HTI
+Haití;Louicius Deedson;;21;Delantero;FC Dallas;1,20 mill. €;11/02/2001;C;HT;HTI
+Haití;Wilson Isidor;;22;Delantero;Sunderland AFC;18,00 mill. €;27/08/2000;C;HT;HTI
+Haití;Frantzdy Pierrot;;23;Delantero;Caykur Rizespor;2,50 mill. €;29/03/1995;C;HT;HTI
+Haití;Lenny Joseph;;24;Delantero;Ferencvárosi TC;1,20 mill. €;12/10/2000;C;HT;HTI
+Haití;Duckens Nazon;;25;Delantero;Esteghlal FC;900 mil €;07/04/1994;C;HT;HTI
+Haití;Yassin Fortuné;;26;Delantero;FC Vizela;200 mil €;30/01/1999;C;HT;HTI
 Irak;;;1;;;;;;IQ;IRQ
 Irak;;;2;;;;;;IQ;IRQ
 Irak;;;3;;;;;;IQ;IRQ
@@ -1120,7 +1120,7 @@ Suiza;;;26;;;;;;CH;CHE
 Suecia;Jacob Widell Zetterström;;1;Portero;Derby County;2,50 mill. €;11/07/1998;F;SE;SWE
 Suecia;Gustaf Lagerbielke;;2;Defensa;SC Braga;5,00 mill. €;10/04/2000;F;SE;SWE
 Suecia;Victor Lindelof;;3;Defensa;Aston Villa;6,00 mill. €;17/07/1994;F;SE;SWE
-Suecia;Isak Hien;;4;Defensa;Atalanta;22,00 mill. €;13/01/1999;F;SE;SWE
+Suecia;Isak Hien;;4;Defensa;Atalanta BC;22,00 mill. €;13/01/1999;F;SE;SWE
 Suecia;Gabriel Gudmundsson;;5;Defensa;Leeds United;20,00 mill. €;29/04/1999;F;SE;SWE
 Suecia;Carl Starfelt;;6;Defensa;Celta de Vigo;5,00 mill. €;01/06/1995;F;SE;SWE
 Suecia;Lucas Bergvall;;7;Centrocampista;Tottenham Hotspur;40,00 mill. €;02/02/2006;F;SE;SWE
@@ -1143,32 +1143,32 @@ Suecia;Kristoffer Nordfeldt;;23;Portero;AIK;175 mil €;23/06/1989;F;SE;SWE
 Suecia;Taha Ali;;24;Delantero;Malmoe FF;1,20 mill. €;01/07/1998;F;SE;SWE
 Suecia;Elliot Stroud;;25;Centrocampista;Mjälby AIF;3,00 mill. €;22/06/2002;F;SE;SWE
 Suecia;Alexander Bernhardsson;;26;Delantero;Holstein Kiel;3,00 mill. €;08/09/1998;F;SE;SWE
-Túnez;;;1;;;;;;TN;TUN
-Túnez;;;2;;;;;;TN;TUN
-Túnez;;;3;;;;;;TN;TUN
-Túnez;;;4;;;;;;TN;TUN
-Túnez;;;5;;;;;;TN;TUN
-Túnez;;;6;;;;;;TN;TUN
-Túnez;;;7;;;;;;TN;TUN
-Túnez;;;8;;;;;;TN;TUN
-Túnez;;;9;;;;;;TN;TUN
-Túnez;;;10;;;;;;TN;TUN
-Túnez;;;11;;;;;;TN;TUN
-Túnez;;;12;;;;;;TN;TUN
-Túnez;;;13;;;;;;TN;TUN
-Túnez;;;14;;;;;;TN;TUN
-Túnez;;;15;;;;;;TN;TUN
-Túnez;;;16;;;;;;TN;TUN
-Túnez;;;17;;;;;;TN;TUN
-Túnez;;;18;;;;;;TN;TUN
-Túnez;;;19;;;;;;TN;TUN
-Túnez;;;20;;;;;;TN;TUN
-Túnez;;;21;;;;;;TN;TUN
-Túnez;;;22;;;;;;TN;TUN
-Túnez;;;23;;;;;;TN;TUN
-Túnez;;;24;;;;;;TN;TUN
-Túnez;;;25;;;;;;TN;TUN
-Túnez;;;26;;;;;;TN;TUN
+Túnez;Aymen Dahmen;;1;Portero;CS Sfaxien;800 mil €;28/01/1997;F;TN;TUN
+Túnez;Abdelmouhib Chamakh;;2;Portero;Club Africain;450 mil €;25/08/2001;F;TN;TUN
+Túnez;Sabri Ben Hessen;;3;Portero;Etoile Sportive du Sahel;400 mil €;13/06/1996;F;TN;TUN
+Túnez;Montassar Talbi;;4;Defensa;FC Lorient;7,00 mill. €;26/05/1998;F;TN;TUN
+Túnez;Adem Arous;;5;Defensa;Kasimpasa;1,00 mill. €;17/07/2004;F;TN;TUN
+Túnez;Dylan Bronn;;6;Defensa;Servette FC;800 mil €;19/06/1995;F;TN;TUN
+Túnez;Omar Rekik;;7;Defensa;NK Maribor;500 mil €;20/12/2001;F;TN;TUN
+Túnez;Raed Chikhaoui;;8;Defensa;US Monastir;250 mil €;09/06/2004;F;TN;TUN
+Túnez;Ali Abdi;;9;Defensa;OGC Nice;2,50 mill. €;20/12/1993;F;TN;TUN
+Túnez;Mohamed Amine Ben Hamida;;10;Defensa;Esperance Tunis;700 mil €;15/12/1995;F;TN;TUN
+Túnez;Yan Valery;;11;Defensa;BSC Young Boys;1,30 mill. €;22/02/1999;F;TN;TUN
+Túnez;Moutaz Neffati;;12;Defensa;IFK Norrköping;900 mil €;04/09/2004;F;TN;TUN
+Túnez;Ellyes Skhiri;;13;Centrocampista;Eintracht Frankfurt;6,00 mill. €;10/05/1995;F;TN;TUN
+Túnez;Mohamed Belhadj Mahmoud;;14;Centrocampista;FC Lugano;2,50 mill. €;24/04/2000;F;TN;TUN
+Túnez;Rani Khedira;;15;Centrocampista;1.FC Union Berlin;2,00 mill. €;27/01/1994;F;TN;TUN
+Túnez;Anis Ben Slimane;;16;Centrocampista;Norwich City;3,00 mill. €;16/03/2001;F;TN;TUN
+Túnez;Hannibal;;17;Centrocampista;Burnley FC;16,00 mill. €;21/01/2003;F;TN;TUN
+Túnez;Sebastian Tounekti;;18;Delantero;Celtic FC;6,00 mill. €;13/07/2002;F;TN;TUN
+Túnez;Ismaël Gharbi;;19;Delantero;FC Augsburg;5,00 mill. €;10/04/2004;F;TN;TUN
+Túnez;Elias Achouri;;20;Delantero;FC Copenhagen;3,50 mill. €;10/02/1999;F;TN;TUN
+Túnez;Elias Saad;;21;Delantero;Hannover 96;2,50 mill. €;27/12/1999;F;TN;TUN
+Túnez;Mortadha Ben Ouanes;;22;Delantero;Kasimpasa;1,50 mill. €;02/07/1994;F;TN;TUN
+Túnez;Khalil Ayari;;23;Delantero;Paris Saint-Germain Espoirs;800 mil €;02/02/2005;F;TN;TUN
+Túnez;Firas Chaouat;;24;Delantero;Club Africain;850 mil €;08/05/1996;F;TN;TUN
+Túnez;Hazem Mastouri;;25;Delantero;Dinamo Makhachkala;700 mil €;18/06/1997;F;TN;TUN
+Túnez;Rayan Elloumi;;26;Delantero;Vancouver Whitecaps FC;600 mil €;17/09/2007;F;TN;TUN
 Turquía;;;1;;;;;;TR;TUR
 Turquía;;;2;;;;;;TR;TUR
 Turquía;;;3;;;;;;TR;TUR
