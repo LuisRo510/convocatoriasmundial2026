@@ -129,33 +129,33 @@ Australia;;;23;;;;;;AU;AUS
 Australia;;;24;;;;;;AU;AUS
 Australia;;;25;;;;;;AU;AUS
 Australia;;;26;;;;;;AU;AUS
-Austria;;;1;;;;;;AT;AUT
-Austria;;;2;;;;;;AT;AUT
-Austria;;;3;;;;;;AT;AUT
-Austria;;;4;;;;;;AT;AUT
-Austria;;;5;;;;;;AT;AUT
-Austria;;;6;;;;;;AT;AUT
-Austria;;;7;;;;;;AT;AUT
-Austria;;;8;;;;;;AT;AUT
-Austria;;;9;;;;;;AT;AUT
-Austria;;;10;;;;;;AT;AUT
-Austria;;;11;;;;;;AT;AUT
-Austria;;;12;;;;;;AT;AUT
-Austria;;;13;;;;;;AT;AUT
-Austria;;;14;;;;;;AT;AUT
-Austria;;;15;;;;;;AT;AUT
-Austria;;;16;;;;;;AT;AUT
-Austria;;;17;;;;;;AT;AUT
-Austria;;;18;;;;;;AT;AUT
-Austria;;;19;;;;;;AT;AUT
-Austria;;;20;;;;;;AT;AUT
-Austria;;;21;;;;;;AT;AUT
-Austria;;;22;;;;;;AT;AUT
-Austria;;;23;;;;;;AT;AUT
-Austria;;;24;;;;;;AT;AUT
-Austria;;;25;;;;;;AT;AUT
-Austria;;;26;;;;;;AT;AUT
-Bosnia y Herzegovina;Nikola Vasilj;;1;Portero;FC St.Pauli;4,50 mill. €;02/12/1995;B;BA;BIH
+Austria;Alexander Schlager;;1;Portero;Red Bull Salzburg;2,50 mill. €;01/02/1996;J;AT;AUT
+Austria;Patrick Pentz;;13;Portero;Bröndby IF;2,20 mill. €;02/01/1997;J;AT;AUT
+Austria;Florian Wiegele;;12;Portero;FC Viktoria Plzen;1,80 mill. €;21/03/2001;J;AT;AUT
+Austria;Kevin Danso;;3;Defensa;Tottenham Hotspur;20,00 mill. €;19/09/1998;J;AT;AUT
+Austria;Philipp Lienhart;;15;Defensa;SC Freiburg;12,00 mill. €;11/07/1996;J;AT;AUT
+Austria;Marco Friedl;;23;Defensa;SV Werder Bremen;12,00 mill. €;16/03/1998;J;AT;AUT
+Austria;David Affengruber;;2;Defensa;Elche CF;9,00 mill. €;19/03/2001;J;AT;AUT
+Austria;Stefan Posch;;5;Defensa;1.FSV Mainz 05;5,50 mill. €;14/05/1997;J;AT;AUT
+Austria;David Alaba;;8;Defensa;Real Madrid;3,50 mill. €;24/06/1992;J;AT;AUT
+Austria;Michael Svoboda;;25;Defensa;Venezia FC;3,00 mill. €;15/10/1998;J;AT;AUT
+Austria;Phillipp Mwene;;16;Defensa;1.FSV Mainz 05;1,50 mill. €;29/01/1994;J;AT;AUT
+Austria;Konrad Laimer;;20;Defensa;Bayern Munich;32,00 mill. €;27/05/1997;J;AT;AUT
+Austria;Nicolas Seiwald;;6;Centrocampista;RB Leipzig;22,00 mill. €;04/05/2001;J;AT;AUT
+Austria;Florian Grillitsch;;10;Centrocampista;SC Braga;2,00 mill. €;07/08/1995;J;AT;AUT
+Austria;Carney Chukwuemeka;;17;Centrocampista;Borussia Dortmund;20,00 mill. €;20/10/2003;J;AT;AUT
+Austria;Xaver Schlager;;4;Centrocampista;RB Leipzig;10,00 mill. €;28/09/1997;J;AT;AUT
+Austria;Marcel Sabitzer;;9;Centrocampista;Borussia Dortmund;7,00 mill. €;17/03/1994;J;AT;AUT
+Austria;Alessandro Schöpf;;26;Centrocampista;Wolfsberger AC;900 mil €;07/02/1994;J;AT;AUT
+Austria;Alexander Prass;;22;Centrocampista;TSG 1899 Hoffenheim;7,00 mill. €;26/05/2001;J;AT;AUT
+Austria;Christoph Baumgartner;;19;Centrocampista;RB Leipzig;30,00 mill. €;01/08/1999;J;AT;AUT
+Austria;Paul Wanner;;24;Centrocampista;PSV Eindhoven;18,00 mill. €;23/12/2005;J;AT;AUT
+Austria;Romano Schmid;;18;Centrocampista;SV Werder Bremen;15,00 mill. €;27/01/2000;J;AT;AUT
+Austria;Patrick Wimmer ;;21;Delantero;VfL Wolfsburg;15,00 mill. €;30/05/2001;J;AT;AUT
+Austria;Marko Arnautovic;;7;Delantero;Red Star Belgrade;2,50 mill. €;19/04/1989;J;AT;AUT
+Austria;Sasa Kalajdzic;;14;Delantero;LASK;2,00 mill. €;07/07/1997;J;AT;AUT
+Austria;Michael Gregoritsch;;11;Delantero;FC Augsburg;1,50 mill. €;18/04/1994;J;AT;AUT
+Bosnia y Herzegovina;Nikola Vasilj;;1;Portero;FC St. Pauli;4,50 mill. €;02/12/1995;B;BA;BIH
 Bosnia y Herzegovina;Nihad Mujakic;;2;Defensa;Gaziantep FK;1,20 mill. €;15/04/1998;B;BA;BIH
 Bosnia y Herzegovina;Nidal Celik;;3;Defensa;RC Lens;4,00 mill. €;17/07/2006;B;BA;BIH
 Bosnia y Herzegovina;Tarik Muharemović;;4;Defensa;US Sassuolo;20,00 mill. €;28/02/2003;B;BA;BIH
@@ -208,9 +208,9 @@ Brasil;;;24;;;;;;BR;BRA
 Brasil;;;25;;;;;;BR;BRA
 Brasil;;;26;;;;;;BR;BRA
 Bélgica;Senne Lammens;;1;Portero;Manchester United;30,00 mill. €;07/07/2002;G;BE;BEL
-Bélgica;Mike Penders;;2;Portero;RC Strasbourg;22,00 mill. €;31/07/2005;G;BE;BEL
+Bélgica;Mike Penders;;2;Portero;RC Strasbourg Alsace;22,00 mill. €;31/07/2005;G;BE;BEL
 Bélgica;Thibaut Courtois;;3;Portero;Real Madrid;18,00 mill. €;11/05/1992;G;BE;BEL
-Bélgica;Zeno Debast;;4;Defensa;Sporting Lisboa;30,00 mill. €;24/10/2003;G;BE;BEL
+Bélgica;Zeno Debast;;4;Defensa;Sporting CP;30,00 mill. €;24/10/2003;G;BE;BEL
 Bélgica;Koni De Winter;;5;Defensa;AC Milan;23,00 mill. €;12/06/2002;G;BE;BEL
 Bélgica;Arthur Theate;;6;Defensa;Eintracht Frankfurt;20,00 mill. €;25/05/2000;G;BE;BEL
 Bélgica;Nathan Ngoy;;7;Defensa;LOSC Lille;20,00 mill. €;10/06/2003;G;BE;BEL
@@ -224,41 +224,41 @@ Bélgica;Nicolas Raskin;;14;Centrocampista;Rangers FC;12,00 mill. €;23/02/2001
 Bélgica;Axel Witsel;;15;Centrocampista;Girona FC;1,40 mill. €;12/01/1989;G;BE;BEL
 Bélgica;Youri Tielemans ;;16;Centrocampista;Aston Villa;35,00 mill. €;07/05/1997;G;BE;BEL
 Bélgica;Alexis Saelemaekers;;17;Centrocampista;AC Milan;25,00 mill. €;27/06/1999;G;BE;BEL
-Bélgica;Diego Moreira;;18;Centrocampista;RC Strasbourg;25,00 mill. €;06/08/2004;G;BE;BEL
+Bélgica;Diego Moreira;;18;Centrocampista;RC Strasbourg Alsace;25,00 mill. €;06/08/2004;G;BE;BEL
 Bélgica;Charles De Ketelaere;;19;Centrocampista;Atalanta BC;35,00 mill. €;10/03/2001;G;BE;BEL
 Bélgica;Kevin De Bruyne ;;20;Centrocampista;SSC Napoli;10,00 mill. €;28/06/1991;G;BE;BEL
 Bélgica;Hans Vanaken;;21;Centrocampista;Club Brugge;6,00 mill. €;24/08/1992;G;BE;BEL
 Bélgica;Jérémy Doku;;22;Delantero;Manchester City;65,00 mill. €;27/05/2002;G;BE;BEL
-Bélgica;Leandro Trossard;;23;Delantero;Arsenal;20,00 mill. €;04/12/1994;G;BE;BEL
+Bélgica;Leandro Trossard;;23;Delantero;Arsenal FC;20,00 mill. €;04/12/1994;G;BE;BEL
 Bélgica;Dodi Lukébakio;;24;Delantero;SL Benfica;20,00 mill. €;24/09/1997;G;BE;BEL
 Bélgica;Matias Fernandez-Pardo;;25;Delantero;LOSC Lille;30,00 mill. €;03/02/2005;G;BE;BEL
 Bélgica;Romelu Lukaku ;;26;Delantero;SSC Napoli;12,00 mill. €;13/05/1993;G;BE;BEL
-Cabo Verde;;;1;;;;;;CV;CPV
-Cabo Verde;;;2;;;;;;CV;CPV
-Cabo Verde;;;3;;;;;;CV;CPV
-Cabo Verde;;;4;;;;;;CV;CPV
-Cabo Verde;;;5;;;;;;CV;CPV
-Cabo Verde;;;6;;;;;;CV;CPV
-Cabo Verde;;;7;;;;;;CV;CPV
-Cabo Verde;;;8;;;;;;CV;CPV
-Cabo Verde;;;9;;;;;;CV;CPV
-Cabo Verde;;;10;;;;;;CV;CPV
-Cabo Verde;;;11;;;;;;CV;CPV
-Cabo Verde;;;12;;;;;;CV;CPV
-Cabo Verde;;;13;;;;;;CV;CPV
-Cabo Verde;;;14;;;;;;CV;CPV
-Cabo Verde;;;15;;;;;;CV;CPV
-Cabo Verde;;;16;;;;;;CV;CPV
-Cabo Verde;;;17;;;;;;CV;CPV
-Cabo Verde;;;18;;;;;;CV;CPV
-Cabo Verde;;;19;;;;;;CV;CPV
-Cabo Verde;;;20;;;;;;CV;CPV
-Cabo Verde;;;21;;;;;;CV;CPV
-Cabo Verde;;;22;;;;;;CV;CPV
-Cabo Verde;;;23;;;;;;CV;CPV
-Cabo Verde;;;24;;;;;;CV;CPV
-Cabo Verde;;;25;;;;;;CV;CPV
-Cabo Verde;;;26;;;;;;CV;CPV
+Cabo Verde;CJ dos Santos;;1;Portero;San Diego FC;1,20 mill. €;24/08/2000;H;CV;CPV
+Cabo Verde;Márcio Rosa;;2;Portero;Montana;300 mil €;23/02/1997;H;CV;CPV
+Cabo Verde;Vozinha;;3;Portero;GD Chaves;50 mil €;03/06/1986;H;CV;CPV
+Cabo Verde;Logan Costa;;4;Defensa;Villarreal CF;18,00 mill. €;01/04/2001;H;CV;CPV
+Cabo Verde;Diney Borges;;5;Defensa;Al-Bataeh CSC;1,00 mill. €;17/01/1995;H;CV;CPV
+Cabo Verde;Kelvin Pires;;6;Defensa;SJK Seinäjoki;300 mil €;05/06/2000;H;CV;CPV
+Cabo Verde;Roberto Lopes;;7;Defensa;Shamrock Rovers;250 mil €;17/06/1992;H;CV;CPV
+Cabo Verde;Stopira;;8;Defensa;SC União Torreense;50 mil €;20/05/1988;H;CV;CPV
+Cabo Verde;Wagner Pina;;9;Defensa;Trabzonspor;8,00 mill. €;03/11/2002;H;CV;CPV
+Cabo Verde;Sidny Lopes Cabral;;10;Defensa;SL Benfica;5,00 mill. €;18/09/2002;H;CV;CPV
+Cabo Verde;Steven Moreira;;11;Defensa;Columbus Crew;1,50 mill. €;13/08/1994;H;CV;CPV
+Cabo Verde;Kevin Lenini;;12;Centrocampista;FC Krasnodar;4,50 mill. €;27/01/1997;H;CV;CPV
+Cabo Verde;Laros Duarte;;13;Centrocampista;Puskás Akadémia FC;1,00 mill. €;28/02/1997;H;CV;CPV
+Cabo Verde;João Paulo;;14;Centrocampista;FCSB;700 mil €;26/05/1998;H;CV;CPV
+Cabo Verde;Deroy Duarte;;15;Centrocampista;Ludogorets Razgrad;1,80 mill. €;04/07/1999;H;CV;CPV
+Cabo Verde;Jamiro Monteiro;;16;Centrocampista;PEC Zwolle;750 mil €;23/11/1993;H;CV;CPV
+Cabo Verde;Yannick Semedo;;17;Centrocampista;SC Farense;300 mil €;29/12/1995;H;CV;CPV
+Cabo Verde;Hélio Varela;;18;Delantero;Maccabi Tel Aviv;1,20 mill. €;03/05/2002;H;CV;CPV
+Cabo Verde;Willy Semedo;;19;Delantero;Omonia Nicosia;1,00 mill. €;27/04/1994;H;CV;CPV
+Cabo Verde;Jovane Cabral;;20;Delantero;CF Estrela Amadora;800 mil €;14/06/1998;H;CV;CPV
+Cabo Verde;Ryan Mendes;;21;Delantero;Igdir FK;200 mil €;08/01/1990;H;CV;CPV
+Cabo Verde;Telmo Arcanjo;;22;Delantero;Vitória Guimarães SC;3,00 mill. €;21/06/2001;H;CV;CPV
+Cabo Verde;Garry Rodrigues;;23;Delantero;Apollon Limassol;325 mil €;27/11/1990;H;CV;CPV
+Cabo Verde;Benchimol;;24;Delantero;Akron Tolyatti;900 mil €;29/12/2001;H;CV;CPV
+Cabo Verde;Dailon Livramento;;25;Delantero;Casa Pia AC;800 mil €;04/05/2001;H;CV;CPV
+Cabo Verde;Nuno Da Costa;;26;Delantero;Basaksehir FK;500 mil €;10/02/1991;H;CV;CPV
 Canadá;;;1;;;;;;CA;CAN
 Canadá;;;2;;;;;;CA;CAN
 Canadá;;;3;;;;;;CA;CAN
@@ -340,7 +340,7 @@ Colombia;;;26;;;;;;CO;COL
 Corea del Sur;Bum-keun Song;;12;Portero;Jeonbuk Hyundai Motors;;15/10/1997;A;KR;KOR
 Corea del Sur;Hyeon-woo Jo;;21;Portero;Ulsan HD FC;;25/09/1991;A;KR;KOR
 Corea del Sur;Seung-gyu Kim;;1;Portero;FC Tokyo;;30/09/1990;A;KR;KOR
-Corea del Sur;Min-jae Kim;;4;Defensa;Bayern Munich;;15/11/1996;A;KR;KOR
+Corea del Sur;Min-jae Kim;;4;Defensa;Bayern München;;15/11/1996;A;KR;KOR
 Corea del Sur;Yu-min Cho;;-;Defensa;Sharjah FC;;17/11/1996;A;KR;KOR
 Corea del Sur;Han-beom Lee;;3;Defensa;FC Midtjylland;;17/06/2002;A;KR;KOR
 Corea del Sur;Ju-sung Kim;;14;Defensa;Sanfrecce Hiroshima;;12/12/2000;A;KR;KOR
@@ -388,59 +388,59 @@ Costa de Marfil;Evann Guessand ;;22;Delantero;Crystal Palace;28,00 mill. €;01
 Costa de Marfil;Nicolas Pépé;;23;Delantero;Villarreal CF;6,00 mill. €;29/05/1995;E;CI;CIV
 Costa de Marfil;Ange-Yoan Bonny;;24;Delantero;Inter Milan;35,00 mill. €;25/10/2003;E;CI;CIV
 Costa de Marfil;Elye Wahi;;25;Delantero;OGC Nice;12,00 mill. €;02/01/2003;E;CI;CIV
-Costa de Marfil;Oumar Diakité;;26;Delantero;Cercle Brugge ;5,00 mill. €;20/12/2003;E;CI;CIV
-Croacia;;;1;;;;;;HR;HRV
-Croacia;;;2;;;;;;HR;HRV
-Croacia;;;3;;;;;;HR;HRV
-Croacia;;;4;;;;;;HR;HRV
-Croacia;;;5;;;;;;HR;HRV
-Croacia;;;6;;;;;;HR;HRV
-Croacia;;;7;;;;;;HR;HRV
-Croacia;;;8;;;;;;HR;HRV
-Croacia;;;9;;;;;;HR;HRV
-Croacia;;;10;;;;;;HR;HRV
-Croacia;;;11;;;;;;HR;HRV
-Croacia;;;12;;;;;;HR;HRV
-Croacia;;;13;;;;;;HR;HRV
-Croacia;;;14;;;;;;HR;HRV
-Croacia;;;15;;;;;;HR;HRV
-Croacia;;;16;;;;;;HR;HRV
-Croacia;;;17;;;;;;HR;HRV
-Croacia;;;18;;;;;;HR;HRV
-Croacia;;;19;;;;;;HR;HRV
-Croacia;;;20;;;;;;HR;HRV
-Croacia;;;21;;;;;;HR;HRV
-Croacia;;;22;;;;;;HR;HRV
-Croacia;;;23;;;;;;HR;HRV
-Croacia;;;24;;;;;;HR;HRV
-Croacia;;;25;;;;;;HR;HRV
-Croacia;;;26;;;;;;HR;HRV
-Curazao;;;1;;;;;;CW;CWU
-Curazao;;;2;;;;;;CW;CWU
-Curazao;;;3;;;;;;CW;CWU
-Curazao;;;4;;;;;;CW;CWU
-Curazao;;;5;;;;;;CW;CWU
-Curazao;;;6;;;;;;CW;CWU
-Curazao;;;7;;;;;;CW;CWU
-Curazao;;;8;;;;;;CW;CWU
-Curazao;;;9;;;;;;CW;CWU
-Curazao;;;10;;;;;;CW;CWU
-Curazao;;;11;;;;;;CW;CWU
-Curazao;;;12;;;;;;CW;CWU
-Curazao;;;13;;;;;;CW;CWU
-Curazao;;;14;;;;;;CW;CWU
-Curazao;;;15;;;;;;CW;CWU
-Curazao;;;16;;;;;;CW;CWU
-Curazao;;;17;;;;;;CW;CWU
-Curazao;;;18;;;;;;CW;CWU
-Curazao;;;19;;;;;;CW;CWU
-Curazao;;;20;;;;;;CW;CWU
-Curazao;;;21;;;;;;CW;CWU
-Curazao;;;22;;;;;;CW;CWU
-Curazao;;;23;;;;;;CW;CWU
-Curazao;;;24;;;;;;CW;CWU
-Curazao;;;25;;;;;;CW;CWU
-Curazao;;;26;;;;;;CW;CWU
+Costa de Marfil;Oumar Diakité;;26;Delantero;Cercle Brugge;5,00 mill. €;20/12/2003;E;CI;CIV
+Croacia;Dominik Kotarski;;-;Portero;FC Copenhagen;6,00 mill. €;10/02/2000;L;HR;HRV
+Croacia;Dominik Livakovic;;1;Portero;GNK Dinamo Zagreb;4,00 mill. €;09/01/1995;L;HR;HRV
+Croacia;Ivor Pandur;;12;Portero;Hull City;3,50 mill. €;25/03/2000;L;HR;HRV
+Croacia;Josko Gvardiol;;-;Defensa;Manchester City;70,00 mill. €;23/01/2002;L;HR;HRV
+Croacia;Luka Vuskovic;;22;Defensa;Hamburger SV;60,00 mill. €;24/02/2007;L;HR;HRV
+Croacia;Josip Sutalo;;6;Defensa;Ajax Amsterdam;15,00 mill. €;28/02/2000;L;HR;HRV
+Croacia;Marin Pongracic;;3;Defensa;ACF Fiorentina;7,50 mill. €;11/09/1997;L;HR;HRV
+Croacia;Martin Erlić;;25;Defensa;FC Midtjylland;4,00 mill. €;24/01/1998;L;HR;HRV
+Croacia;Duje Caleta-Car;;5;Defensa;Real Sociedad;3,00 mill. €;17/09/1996;L;HR;HRV
+Croacia;Josip Stanisic;;2;Defensa;Bayern Munich;35,00 mill. €;02/04/2000;L;HR;HRV
+Croacia;Nikola Moro;;8;Centrocampista;Bologna FC 1909;6,50 mill. €;12/03/1998;L;HR;HRV
+Croacia;Kristijan Jakic;;18;Centrocampista;FC Augsburg;6,00 mill. €;14/05/1997;L;HR;HRV
+Croacia;Petar Sučić;;17;Centrocampista;Inter Milan;30,00 mill. €;25/10/2003;L;HR;HRV
+Croacia;Mateo Kovacic;;-;Centrocampista;Manchester City;12,00 mill. €;06/05/1994;L;HR;HRV
+Croacia;Luka Sucic;;21;Centrocampista;Real Sociedad;10,00 mill. €;08/09/2002;L;HR;HRV
+Croacia;Mario Pašalić;;15;Centrocampista;Atalanta BC;7,00 mill. €;09/02/1995;L;HR;HRV
+Croacia;Luka Modrić ;;10;Centrocampista;AC Milan;4,00 mill. €;09/09/1985;L;HR;HRV
+Croacia;Martin Baturina;;16;Centrocampista;Como 1907;24,00 mill. €;16/02/2003;L;HR;HRV
+Croacia;Nikola Vlašić;;13;Centrocampista;Torino FC;9,00 mill. €;04/10/1997;L;HR;HRV
+Croacia;Toni Fruk;;19;Centrocampista;HNK Rijeka;9,00 mill. €;09/03/2001;L;HR;HRV
+Croacia;Andrej Kramaric;;9;Centrocampista;TSG 1899 Hoffenheim;3,00 mill. €;19/06/1991;L;HR;HRV
+Croacia;Ivan Perišić;;14;Delantero;PSV Eindhoven;1,30 mill. €;02/02/1989;L;HR;HRV
+Croacia;Marco Pašalić;;24;Delantero;Orlando City SC;6,50 mill. €;14/09/2000;L;HR;HRV
+Croacia;Igor Matanovic;;20;Delantero;SC Freiburg;10,00 mill. €;31/03/2003;L;HR;HRV
+Croacia;Petar Musa;;26;Delantero;FC Dallas;8,00 mill. €;04/03/1998;L;HR;HRV
+Croacia;Ante Budimir;;11;Delantero;CA Osasuna;3,00 mill. €;22/07/1991;L;HR;HRV
+Curazao;Eloy Room;;1;Portero;Miami FC;150 mil €  ;06/02/1989;E;CW;CWU
+Curazao;Trevor Doornbusch;;2;Portero;VVV-Venlo;50 mil €;06/07/1999;E;CW;CWU
+Curazao;Tyrick Bodak;;3;Portero;SC Telstar;25 mil €;15/05/2002;E;CW;CWU
+Curazao;Armando Obispo;;4;Defensa;PSV Eindhoven;4,00 mill. €;05/03/1999;E;CW;CWU
+Curazao;Riechedly Bazoer;;5;Defensa;Konyaspor;2,20 mill. €;12/10/1996;E;CW;CWU
+Curazao;Deveron Fonville;;6;Defensa;NEC Nijmegen;1,00 mill. €;16/05/2003;E;CW;CWU
+Curazao;Juriën Gaari;;7;Defensa;Abha Club;400 mil €;23/12/1993;E;CW;CWU
+Curazao;Roshon van Eijma;;8;Defensa;RKC Waalwijk;375 mil €;09/06/1998;E;CW;CWU
+Curazao;Sherel Floranus;;9;Defensa;PEC Zwolle;800 mil €;23/08/1998;E;CW;CWU
+Curazao;Shurandy Sambo;;10;Defensa;Sparta Rotterdam;1,50 mill. €;19/08/2001;E;CW;CWU
+Curazao;Joshua Brenet;;11;Defensa;Kayserispor;1,20 mill. €;20/03/1994;E;CW;CWU
+Curazao;Livano Comenencia ;;12;Defensa;FC Zürich;700 mil €;03/02/2004;E;CW;CWU
+Curazao;Godfried Roemeratoe;;13;Centrocampista;RKC Waalwijk;400 mil €;19/08/1999;E;CW;CWU
+Curazao;Kevin Felida;;14;Centrocampista;FC Den Bosch;350 mil €;11/11/1999;E;CW;CWU
+Curazao;Juninho Bacuna;;15;Centrocampista;FC Volendam;2,20 mill. €;07/08/1997;E;CW;CWU
+Curazao;Leandro Bacuna ;;16;Centrocampista;Igdir FK;250 mil €;21/08/1991;E;CW;CWU
+Curazao;Tyrese Noslin;;17;Centrocampista;SC Telstar;750 mil €;11/09/2002;E;CW;CWU
+Curazao;Tahith Chong;;18;Centrocampista;Sheffield United;4,50 mill. €;04/12/1999;E;CW;CWU
+Curazao;Jearl Margaritha;;19;Delantero;SK Beveren;1,00 mill. €  ;10/04/2000;E;CW;CWU
+Curazao;Jeremy Antonisse;;20;Delantero;AE Kifisia;800 mil €;29/03/2002;E;CW;CWU
+Curazao;Kenji Gorré ;;21;Delantero;Maccabi Haifa;650 mil €;29/09/1994;E;CW;CWU
+Curazao;Sontje Hansen;;22;Delantero;Middlesbrough FC;4,00 mill. €;18/05/2002;E;CW;CWU
+Curazao;Ar'jany Martha;;23;Delantero;Rotherham United;700 mil €  ;04/09/2003;E;CW;CWU
+Curazao;Brandley Kuwas;;24;Delantero;FC Volendam;300 mil €;19/09/1992;E;CW;CWU
+Curazao;Jürgen Locadia;;25;Delantero;Miami FC;200 mil €  ;07/11/1993;E;CW;CWU
+Curazao;Gervane Kastaneer;;26;Delantero;Terengganu FC;175 mil €;09/06/1996;E;CW;CWU
 Ecuador;;;1;;;;;;EC;ECU
 Ecuador;;;2;;;;;;EC;ECU
 Ecuador;;;3;;;;;;EC;ECU
@@ -732,8 +732,8 @@ Japón;Keisuke Osako;;2;Portero;Sanfrecce Hiroshima;2,00 mill. €;28/07/1999;F;
 Japón;Tomoki Hayakawa;;3;Portero;Kashima Antlers;1,50 mill. €;03/03/1999;F;JP;JPN
 Japón;Hiroki Ito;;4;Defensa;Bayern München;18,00 mill. €;12/05/1999;F;JP;JPN
 Japón;Ko Itakura;;5;Defensa;Ajax Amsterdam;10,00 mill. €;27/01/1997;F;JP;JPN
-Japón;Tsuyoshi Watanabe;;6;Defensa;Feyenoord;10,00 mill. €;05/02/1997;F;JP;JPN
-Japón;Junnosuke Suzuki;;7;Defensa;FC Copenhague;2,00 mill. €;12/07/2003;F;JP;JPN
+Japón;Tsuyoshi Watanabe;;6;Defensa;Feyenoord Rotterdam;10,00 mill. €;05/02/1997;F;JP;JPN
+Japón;Junnosuke Suzuki;;7;Defensa;FC Copenhagen;2,00 mill. €;12/07/2003;F;JP;JPN
 Japón;Shogo Taniguchi;;8;Defensa;Sint-Truidense VV;800 mil €;15/07/1991;F;JP;JPN
 Japón;Yuto Nagatomo;;9;Defensa;FC Tokyo;100 mil €;12/09/1986;F;JP;JPN
 Japón;Takehiro Tomiyasu;;10;Defensa;Ajax Amsterdam;8,00 mill. €;05/11/1998;F;JP;JPN
@@ -749,7 +749,7 @@ Japón;Takefusa Kubo;;19;Delantero;Real Sociedad;30,00 mill. €;04/06/2001;F;JP
 Japón;Ritsu Doan;;20;Delantero;Eintracht Frankfurt;20,00 mill. €;16/06/1998;F;JP;JPN
 Japón;Junya Ito;;21;Delantero;KRC Genk;3,50 mill. €;09/03/1993;F;JP;JPN
 Japón;Yuito Suzuki ;;22;Delantero;SC Freiburg;18,00 mill. €;25/10/2001;F;JP;JPN
-Japón;Ayase Ueda;;23;Delantero;Feyenoord;15,00 mill. €;28/08/1998;F;JP;JPN
+Japón;Ayase Ueda;;23;Delantero;Feyenoord Rotterdam;15,00 mill. €;28/08/1998;F;JP;JPN
 Japón;Keisuke Goto;;24;Delantero;Sint-Truidense VV;8,00 mill. €;03/06/2005;F;JP;JPN
 Japón;Kento Shiogai;;25;Delantero;VfL Wolfsburg;8,00 mill. €;26/03/2005;F;JP;JPN
 Japón;Koki Ogawa;;26;Delantero;NEC Nijmegen;2,50 mill. €;08/08/1997;F;JP;JPN
@@ -1013,32 +1013,32 @@ República Checa;;;23;;;;;;CZ;CZE
 República Checa;;;24;;;;;;CZ;CZE
 República Checa;;;25;;;;;;CZ;CZE
 República Checa;;;26;;;;;;CZ;CZE
-RD Congo;;;1;;;;;;CD;COD
-RD Congo;;;2;;;;;;CD;COD
-RD Congo;;;3;;;;;;CD;COD
-RD Congo;;;4;;;;;;CD;COD
-RD Congo;;;5;;;;;;CD;COD
-RD Congo;;;6;;;;;;CD;COD
-RD Congo;;;7;;;;;;CD;COD
-RD Congo;;;8;;;;;;CD;COD
-RD Congo;;;9;;;;;;CD;COD
-RD Congo;;;10;;;;;;CD;COD
-RD Congo;;;11;;;;;;CD;COD
-RD Congo;;;12;;;;;;CD;COD
-RD Congo;;;13;;;;;;CD;COD
-RD Congo;;;14;;;;;;CD;COD
-RD Congo;;;15;;;;;;CD;COD
-RD Congo;;;16;;;;;;CD;COD
-RD Congo;;;17;;;;;;CD;COD
-RD Congo;;;18;;;;;;CD;COD
-RD Congo;;;19;;;;;;CD;COD
-RD Congo;;;20;;;;;;CD;COD
-RD Congo;;;21;;;;;;CD;COD
-RD Congo;;;22;;;;;;CD;COD
-RD Congo;;;23;;;;;;CD;COD
-RD Congo;;;24;;;;;;CD;COD
-RD Congo;;;25;;;;;;CD;COD
-RD Congo;;;26;;;;;;CD;COD
+RD Congo;Matthieu Epolo;;1;Portero;Standard Liège;5,00 mill. €;15/01/2005;K;CD;COD
+RD Congo;Timothy Fayulu;;2;Portero;FC Noah Yerevan;1,00 mill. €;24/07/1999;K;CD;COD
+RD Congo;Lionel Mpasi-Nzau;;3;Portero;Le Havre AC;400 mil €;01/08/1994;K;CD;COD
+RD Congo;Axel Tuanzebe;;4;Defensa;Burnley FC;5,00 mill. €;14/11/1997;K;CD;COD
+RD Congo;Chancel Mbemba;;5;Defensa;LOSC Lille;2,50 mill. €;08/08/1994;K;CD;COD
+RD Congo;Steve Kapuadi;;6;Defensa;Widzew Lodz;2,50 mill. €;30/04/1998;K;CD;COD
+RD Congo;Rocky Bushiri;;7;Defensa;Hibernian FC;900 mil €;30/11/1999;K;CD;COD
+RD Congo;Dylan Batubinsika;;8;Defensa;AE Larisa;700 mil €;15/02/1996;K;CD;COD
+RD Congo;Joris Kayembe;;9;Defensa;KRC Genk;2,50 mill. €;08/08/1994;K;CD;COD
+RD Congo;Arthur Masuaku;;10;Defensa;RC Lens;2,50 mill. €;07/11/1993;K;CD;COD
+RD Congo;Aaron Wan-Bissaka;;11;Defensa;West Ham United;22,00 mill. €;26/11/1997;K;CD;COD
+RD Congo;Jeremy Ngakia;;12;Defensa;Watford FC;2,00 mill. €;07/09/2000;K;CD;COD
+RD Congo;Ngal'ayel Mukau;;13;Centrocampista;LOSC Lille;12,00 mill. €;03/11/2004;K;CD;COD
+RD Congo;Charles Pickel;;14;Centrocampista;RCD Espanyol Barcelona;2,50 mill. €;15/05/1997;K;CD;COD
+RD Congo;Noah Sadiki;;15;Centrocampista;Sunderland AFC;30,00 mill. €;17/12/2004;K;CD;COD
+RD Congo;Edo Kayembe;;16;Centrocampista;Watford FC;4,00 mill. €;03/06/1998;K;CD;COD
+RD Congo;Samuel Moutoussamy;;17;Centrocampista;Atromitos Athens;1,20 mill. €;12/08/1996;K;CD;COD
+RD Congo;Meschack Elia;;18;Centrocampista;Alanyaspor;2,00 mill. €;06/08/1997;K;CD;COD
+RD Congo;Nathanaël Mbuku;;19;Delantero;Montpellier HSC;2,00 mill. €;16/03/2002;K;CD;COD
+RD Congo;Brian Cipenga;;20;Delantero;CD Castellón;2,00 mill. €;11/03/1998;K;CD;COD
+RD Congo;Théo Bongonda;;21;Delantero;Spartak Moscow;4,00 mill. €;20/11/1995;K;CD;COD
+RD Congo;Grady Diangana;;22;Delantero;Elche CF;2,50 mill. €;19/04/1998;K;CD;COD
+RD Congo;Yoane Wissa;;23;Delantero;Newcastle United;30,00 mill. €;03/09/1996;K;CD;COD
+RD Congo;Simon Banza;;24;Delantero;Al-Jazira Club;11,00 mill. €;13/08/1996;K;CD;COD
+RD Congo;Fiston Mayele;;25;Delantero;Pyramids FC;1,80 mill. €;24/06/1994;K;CD;COD
+RD Congo;Cédric Bakambu;;26;Delantero;Real Betis Balompié;1,40 mill. €;11/04/1991;K;CD;COD
 Senegal;;;1;;;;;;SN;SEN
 Senegal;;;2;;;;;;SN;SEN
 Senegal;;;3;;;;;;SN;SEN
@@ -1133,9 +1133,9 @@ Suecia;Ken Sema;;13;Defensa;Pafos FC;1,00 mill. €;30/09/1993;F;SE;SWE
 Suecia;Eric Smith;;14;Defensa;FC St. Pauli;5,00 mill. €;08/01/1997;F;SE;SWE
 Suecia;Mattias Svanberg;;15;Centrocampista;VfL Wolfsburg;9,00 mill. €;05/01/1999;F;SE;SWE
 Suecia;Jesper Karlström;;16;Centrocampista;Udinese;4,00 mill. €;21/06/1995;F;SE;SWE
-Suecia;Viktor Gyökeres;;17;Delantero;Arsenal;65,00 mill. €;04/06/1998;F;SE;SWE
+Suecia;Viktor Gyökeres;;17;Delantero;Arsenal FC;65,00 mill. €;04/06/1998;F;SE;SWE
 Suecia;Yasin Ayari;;18;Centrocampista;Brighton & Hove Albion;30,00 mill. €;06/10/2003;F;SE;SWE
-Suecia;Gustaf Nilsson;;19;Delantero;Club Brugge ;2,00 mill. €;23/05/1997;F;SE;SWE
+Suecia;Gustaf Nilsson;;19;Delantero;Club Brugge;2,00 mill. €;23/05/1997;F;SE;SWE
 Suecia;Hjalmar Ekdal;;20;Defensa;Burnley FC;6,00 mill. €;21/10/1998;F;SE;SWE
 Suecia;Besfort Zeneli;;21;Centrocampista;Union Saint-Gilloise;4,50 mill. €;21/11/2002;F;SE;SWE
 Suecia;Emil Holm;;22;Defensa;Juventus de Turín;13,00 mill. €;13/05/2000;F;SE;SWE
