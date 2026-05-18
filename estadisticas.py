@@ -157,7 +157,7 @@ def mostrar(df):
     ))
     fig.update_layout(
         xaxis=dict(
-            range=[24, 29], dtick=1,
+            range=[24, 30], dtick=1,
             title='Edad media de la plantilla (años)',
             gridcolor='#e5e7eb', zeroline=False,
         ),
