@@ -1,30 +1,30 @@
 ﻿seleccion ;nombre_completo;name;dorsal;posicion;club;valor;fecha_nacimiento;grupo; iso2; iso3
-Alemania;;;1;;;;;;DE;DEU
-Alemania;;;2;;;;;;DE;DEU
-Alemania;;;3;;;;;;DE;DEU
-Alemania;;;4;;;;;;DE;DEU
-Alemania;;;5;;;;;;DE;DEU
-Alemania;;;6;;;;;;DE;DEU
-Alemania;;;7;;;;;;DE;DEU
-Alemania;;;8;;;;;;DE;DEU
-Alemania;;;9;;;;;;DE;DEU
-Alemania;;;10;;;;;;DE;DEU
-Alemania;;;11;;;;;;DE;DEU
-Alemania;;;12;;;;;;DE;DEU
-Alemania;;;13;;;;;;DE;DEU
-Alemania;;;14;;;;;;DE;DEU
-Alemania;;;15;;;;;;DE;DEU
-Alemania;;;16;;;;;;DE;DEU
-Alemania;;;17;;;;;;DE;DEU
-Alemania;;;18;;;;;;DE;DEU
-Alemania;;;19;;;;;;DE;DEU
-Alemania;;;20;;;;;;DE;DEU
-Alemania;;;21;;;;;;DE;DEU
-Alemania;;;22;;;;;;DE;DEU
-Alemania;;;23;;;;;;DE;DEU
-Alemania;;;24;;;;;;DE;DEU
-Alemania;;;25;;;;;;DE;DEU
-Alemania;;;26;;;;;;DE;DEU
+Alemania;Alexander Nübel;;12;Portero;VfB Stuttgart;12,00 mill. €;30/09/1996;E;DE;DEU
+Alemania;Manuel Neuer ;;1;Portero;Bayern Munich;4,00 mill. €;27/03/1986;E;DE;DEU
+Alemania;Oliver Baumann;;21;Portero;TSG 1899 Hoffenheim;3,00 mill. €;02/06/1990;E;DE;DEU
+Alemania;Nico Schlotterbeck;;15;Defensa;Borussia Dortmund;55,00 mill. €;01/12/1999;E;DE;DEU
+Alemania;Malick Thiaw;;26;Defensa;Newcastle United;45,00 mill. €;08/08/2001;E;DE;DEU
+Alemania;Jonathan Tah;;4;Defensa;Bayern Munich;30,00 mill. €;11/02/1996;E;DE;DEU
+Alemania;Waldemar Anton;;3;Defensa;Borussia Dortmund;18,00 mill. €;20/07/1996;E;DE;DEU
+Alemania;Antonio Rüdiger;;2;Defensa;Real Madrid;9,00 mill. €;03/03/1993;E;DE;DEU
+Alemania;Nathaniel Brown;;18;Defensa;Eintracht Frankfurt;35,00 mill. €;16/06/2003;E;DE;DEU
+Alemania;David Raum;;22;Defensa;RB Leipzig;22,00 mill. €;22/04/1998;E;DE;DEU
+Alemania;Aleksandar Pavlovic;;20;Centrocampista;Bayern Munich;75,00 mill. €;03/05/2004;E;DE;DEU
+Alemania;Angelo Stiller;;16;Centrocampista;VfB Stuttgart;45,00 mill. €;04/04/2001;E;DE;DEU
+Alemania;Joshua Kimmich ;;6;Centrocampista;Bayern Munich;40,00 mill. €;08/02/1995;E;DE;DEU
+Alemania;Felix Nmecha;;23;Centrocampista;Borussia Dortmund;50,00 mill. €;10/10/2000;E;DE;DEU
+Alemania;Nadiem Amiri;;24;Centrocampista;1.FSV Mainz 05;17,00 mill. €;27/10/1996;E;DE;DEU
+Alemania;Leon Goretzka;;8;Centrocampista;Bayern Munich;15,00 mill. €;06/02/1995;E;DE;DEU
+Alemania;Pascal Groß;;5;Centrocampista;Brighton & Hove Albion;3,50 mill. €;15/06/1991;E;DE;DEU
+Alemania;Jamal Musiala;;10;Centrocampista;Bayern Munich;120,00 mill. €;26/02/2003;E;DE;DEU
+Alemania;Florian Wirtz;;17;Centrocampista;Liverpool FC;110,00 mill. €;03/05/2003;E;DE;DEU
+Alemania;Lennart Karl;;25;Centrocampista;Bayern Munich;60,00 mill. €;22/02/2008;E;DE;DEU
+Alemania;Jamie Leweling;;14;Delantero;VfB Stuttgart;40,00 mill. €;26/02/2001;E;DE;DEU
+Alemania;Leroy Sané;;19;Delantero;Galatasaray;20,00 mill. €  ;11/01/1996;E;DE;DEU
+Alemania;Nick Woltemade;;11;Delantero;Newcastle United;65,00 mill. €;14/02/2002;E;DE;DEU
+Alemania;Kai Havertz;;7;Delantero;Arsenal FC;50,00 mill. €;11/06/1999;E;DE;DEU
+Alemania;Maximilian Beier;;9;Delantero;Borussia Dortmund;40,00 mill. €;17/10/2002;E;DE;DEU
+Alemania;Deniz Undav;;13;Delantero;VfB Stuttgart;22,00 mill. €;19/07/1996;E;DE;DEU
 Arabia Saudita;;;1;;;;;;SA;SAU
 Arabia Saudita;;;2;;;;;;SA;SAU
 Arabia Saudita;;;3;;;;;;SA;SAU
@@ -831,32 +831,32 @@ México;;;23;;;;;;MX;MEX
 México;;;24;;;;;;MX;MEX
 México;;;25;;;;;;MX;MEX
 México;;;26;;;;;;MX;MEX
-Noruega;;;1;;;;;;NO;NOR
-Noruega;;;2;;;;;;NO;NOR
-Noruega;;;3;;;;;;NO;NOR
-Noruega;;;4;;;;;;NO;NOR
-Noruega;;;5;;;;;;NO;NOR
-Noruega;;;6;;;;;;NO;NOR
-Noruega;;;7;;;;;;NO;NOR
-Noruega;;;8;;;;;;NO;NOR
-Noruega;;;9;;;;;;NO;NOR
-Noruega;;;10;;;;;;NO;NOR
-Noruega;;;11;;;;;;NO;NOR
-Noruega;;;12;;;;;;NO;NOR
-Noruega;;;13;;;;;;NO;NOR
-Noruega;;;14;;;;;;NO;NOR
-Noruega;;;15;;;;;;NO;NOR
-Noruega;;;16;;;;;;NO;NOR
-Noruega;;;17;;;;;;NO;NOR
-Noruega;;;18;;;;;;NO;NOR
-Noruega;;;19;;;;;;NO;NOR
-Noruega;;;20;;;;;;NO;NOR
-Noruega;;;21;;;;;;NO;NOR
-Noruega;;;22;;;;;;NO;NOR
-Noruega;;;23;;;;;;NO;NOR
-Noruega;;;24;;;;;;NO;NOR
-Noruega;;;25;;;;;;NO;NOR
-Noruega;;;26;;;;;;NO;NOR
+Noruega;Sander Tangvik;;1;Portero;Hamburger SV;3,00 mill. €;29/11/2002;I;NO;NOR
+Noruega;Egil Selvik;;2;Portero;Watford FC;1,30 mill. €;30/07/1997;I;NO;NOR
+Noruega;Ørjan Nyland;;3;Portero;Sevilla FC;900 mil €;10/09/1990;I;NO;NOR
+Noruega;Kristoffer Ajer;;4;Defensa;Brentford FC;18,00 mill. €;17/04/1998;I;NO;NOR
+Noruega;Torbjørn Heggem;;5;Defensa;Bologna FC 1909;14,00 mill. €;12/01/1999;I;NO;NOR
+Noruega;Leo Østigård;;6;Defensa;Genoa CFC;10,00 mill. €;28/11/1999;I;NO;NOR
+Noruega;Henrik Falchener;;7;Defensa;Viking FK;4,00 mill. €;08/05/2003;I;NO;NOR
+Noruega;Sondre Langås;;8;Defensa;Derby County;3,50 mill. €;02/02/2001;I;NO;NOR
+Noruega;David Møller Wolfe;;9;Defensa;Wolverhampton Wanderers;10,00 mill. €;23/04/2002;I;NO;NOR
+Noruega;Fredrik Bjørkan;;10;Defensa;FK Bodø/Glimt;3,50 mill. €;21/08/1998;I;NO;NOR
+Noruega;Julian Ryerson;;11;Defensa;Borussia Dortmund;25,00 mill. €;17/11/1997;I;NO;NOR
+Noruega;Marcus Pedersen;;12;Defensa;Torino FC;3,50 mill. €;16/07/2000;I;NO;NOR
+Noruega;Sander Berge;;13;Centrocampista;Fulham FC;25,00 mill. €;14/02/1998;I;NO;NOR
+Noruega;Patrick Berg;;14;Centrocampista;FK Bodø/Glimt;8,00 mill. €;24/11/1997;I;NO;NOR
+Noruega;Fredrik Aursnes;;15;Centrocampista;SL Benfica;17,00 mill. €;10/12/1995;I;NO;NOR
+Noruega;Kristian Thorstvedt;;16;Centrocampista;US Sassuolo;10,00 mill. €;13/03/1999;I;NO;NOR
+Noruega;Morten Thorsby;;17;Centrocampista;US Cremonese;3,00 mill. €;05/05/1996;I;NO;NOR
+Noruega;Martin Ødegaard;;18;Centrocampista;Arsenal FC;65,00 mill. €;17/12/1998;I;NO;NOR
+Noruega;Thelo Aasgaard;;19;Centrocampista;Rangers FC;2,80 mill. €  ;02/05/2002;I;NO;NOR
+Noruega;Antonio Nusa;;20;Delantero;RB Leipzig;32,00 mill. €;17/04/2005;I;NO;NOR
+Noruega;Andreas Schjelderup;;21;Delantero;SL Benfica;20,00 mill. €;01/06/2004;I;NO;NOR
+Noruega;Jens Petter Hauge;;22;Delantero;FK Bodø/Glimt;12,00 mill. €;12/10/1999;I;NO;NOR
+Noruega;Oscar Bobb;;23;Delantero;Fulham FC;30,00 mill. €;12/07/2003;I;NO;NOR
+Noruega;Erling Haaland;;24;Delantero;Manchester City;200,00 mill. €;21/07/2000;I;NO;NOR
+Noruega;Jørgen Strand Larsen;;25;Delantero;Crystal Palace;45,00 mill. €;06/02/2000;I;NO;NOR
+Noruega;Alexander Sørloth;;26;Delantero;Atlético de Madrid;20,00 mill. €;05/12/1995;I;NO;NOR
 Nueva Zelanda;Max Crocombe;;1;Portero;Millwall FC;1,00 mill. €;12/08/1993;G;NZ;NZL
 Nueva Zelanda;Tim Payne;;2;Defensa;Wellington Phoenix;400 mil €;10/01/1994;G;NZ;NZL
 Nueva Zelanda;Francis de Vries;;3;Defensa;Auckland FC;600 mil €;28/11/1994;G;NZ;NZL
@@ -1039,32 +1039,34 @@ RD Congo;Yoane Wissa;;23;Delantero;Newcastle United;30,00 mill. €;03/09/1996;K
 RD Congo;Simon Banza;;24;Delantero;Al-Jazira Club;11,00 mill. €;13/08/1996;K;CD;COD
 RD Congo;Fiston Mayele;;25;Delantero;Pyramids FC;1,80 mill. €;24/06/1994;K;CD;COD
 RD Congo;Cédric Bakambu;;26;Delantero;Real Betis Balompié;1,40 mill. €;11/04/1991;K;CD;COD
-Senegal;;;1;;;;;;SN;SEN
-Senegal;;;2;;;;;;SN;SEN
-Senegal;;;3;;;;;;SN;SEN
-Senegal;;;4;;;;;;SN;SEN
-Senegal;;;5;;;;;;SN;SEN
-Senegal;;;6;;;;;;SN;SEN
-Senegal;;;7;;;;;;SN;SEN
-Senegal;;;8;;;;;;SN;SEN
-Senegal;;;9;;;;;;SN;SEN
-Senegal;;;10;;;;;;SN;SEN
-Senegal;;;11;;;;;;SN;SEN
-Senegal;;;12;;;;;;SN;SEN
-Senegal;;;13;;;;;;SN;SEN
-Senegal;;;14;;;;;;SN;SEN
-Senegal;;;15;;;;;;SN;SEN
-Senegal;;;16;;;;;;SN;SEN
-Senegal;;;17;;;;;;SN;SEN
-Senegal;;;18;;;;;;SN;SEN
-Senegal;;;19;;;;;;SN;SEN
-Senegal;;;20;;;;;;SN;SEN
-Senegal;;;21;;;;;;SN;SEN
-Senegal;;;22;;;;;;SN;SEN
-Senegal;;;23;;;;;;SN;SEN
-Senegal;;;24;;;;;;SN;SEN
-Senegal;;;25;;;;;;SN;SEN
-Senegal;;;26;;;;;;SN;SEN
+Senegal;Yehvann Diouf;;1;Portero;OGC Nice;7,00 mill. €;16/11/1999;I;SN;SEN
+Senegal;Edouard Mendy;;2;Portero;Al-Ahli SFC;4,50 mill. €;01/03/1992;I;SN;SEN
+Senegal;Mory Diaw;;3;Portero;Le Havre AC;1,00 mill. €;22/06/1993;I;SN;SEN
+Senegal;Mamadou Sarr;;4;Defensa;Chelsea FC;25,00 mill. €;29/08/2005;I;SN;SEN
+Senegal;Moussa Niakhaté;;5;Defensa;Olympique Lyon;18,00 mill. €;08/03/1996;I;SN;SEN
+Senegal;Moustapha Mbow;;6;Defensa;Paris FC;6,00 mill. €;08/03/2000;I;SN;SEN
+Senegal;Antoine Mendy;;7;Defensa;OGC Nice;6,00 mill. €;27/05/2004;I;SN;SEN
+Senegal;Kalidou Koulibaly  ;;8;Defensa;Al-Hilal SFC;5,00 mill. €;20/06/1991;I;SN;SEN
+Senegal;Abdoulaye Seck;;9;Defensa;Maccabi Haifa;500 mil €;04/06/1992;I;SN;SEN
+Senegal;El Hadji Malick Diouf;;10;Defensa;West Ham United;28,00 mill. €;28/12/2004;I;SN;SEN
+Senegal;Ismail Jakobs;;11;Defensa;Galatasaray;8,00 mill. €  ;17/08/1999;I;SN;SEN
+Senegal;Ilay Camara;;12;Defensa;RSC Anderlecht;4,00 mill. €;18/01/200;I;SN;SEN
+Senegal;Idrissa Gueye;;13;Centrocampista;Everton FC;1,00 mill. €;26/09/1989;I;SN;SEN
+Senegal;Pape Gueye;;14;Centrocampista;Villarreal CF;40,00 mill. €;24/01/1999;I;SN;SEN
+Senegal;Lamine Camara;;15;Centrocampista;AS Monaco;35,00 mill. €;01/01/2004;I;SN;SEN
+Senegal;Pape Matar Sarr;;16;Centrocampista;Tottenham Hotspur;32,00 mill. €;14/09/2002;I;SN;SEN
+Senegal;Habib Diarra;;17;Centrocampista;Sunderland AFC;32,00 mill. €;03/01/2004;I;SN;SEN
+Senegal;Pathé Ciss;;18;Centrocampista;Rayo Vallecano;2,00 mill. €;16/03/1994;I;SN;SEN
+Senegal;Bara Sapoko Ndiaye;;19;Centrocampista;Bayern Munich;300 mil €;31/12/2007;I;SN;SEN
+Senegal;Krépin Diatta;;20;Centrocampista;AS Monaco;6,00 mill. €;25/02/1999;I;SN;SEN
+Senegal;Assane Diao;;21;Delantero;Como 1907;30,00 mill. €;07/09/2005;I;SN;SEN
+Senegal;Sadio Mané;;22;Delantero;Al-Nassr FC;7,00 mill. €;10/04/1992;I;SN;SEN
+Senegal;Iliman Ndiaye;;23;Delantero;Everton FC;50,00 mill. €;06/03/2000;I;SN;SEN
+Senegal;Ismaïla Sarr;;24;Delantero;Crystal Palace;35,00 mill. €;25/02/1998;I;SN;SEN
+Senegal;Ibrahim Mbaye;;25;Delantero;Paris Saint-Germain;30,00 mill. €;24/01/2008;I;SN;SEN
+Senegal;Nicolas Jackson;;26;Delantero;Bayern Munich;40,00 mill. €;20/06/2001;I;SN;SEN
+Senegal;Bamba Dieng;;27;Delantero;FC Lorient;6,00 mill. €;23/03/2000;I;SN;SEN
+Senegal;Cherif Ndiaye;;28;Delantero;Samsunspor;5,00 mill. € ;23/01/1996;I;SN;SEN
 Sudáfrica;;;1;;;;;;ZA;ZAF
 Sudáfrica;;;2;;;;;;ZA;ZAF
 Sudáfrica;;;3;;;;;;ZA;ZAF
